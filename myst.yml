@@ -1,5 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
+extends:
+  - https://raw.githubusercontent.com/2i2c-org/demo-shared-content/refs/heads/main/myst.shared.yaml
 project:
   id: 79ab433f-fc45-45ce-8f4a-a0585fe24209
   # title:
