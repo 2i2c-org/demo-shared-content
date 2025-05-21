@@ -2,7 +2,7 @@
 version: 1
 
 site:
-  template: https://raw.githubusercontent.com/2i2c-org/demo-shared-content/main/theme.zip
+  template: book-theme
 
   nav:
     - title: Demo Gallery
